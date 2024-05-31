@@ -2,7 +2,7 @@
 
 多种风格可选的萌萌计数器
 
-![Moe-Counter](https://count.getloli.com/get/@Moe-counter.github)
+![Moe-Counter](https://moe-counter.es3n1n.eu/get/@Moe-counter.github)
 
 <details>
 <summary>More theme</summary>
@@ -20,7 +20,7 @@
 ![Gelbooru](https://count.getloli.com/get/@demo?theme=gelbooru)</details>
 
 ## Demo
-[https://count.getloli.com](https://count.getloli.com)
+[https://moe-counter.es3n1n.eu](https://moe-counter.es3n1n.eu)
 
 ## Usage
 
@@ -37,6 +37,7 @@
 ```shell
 $ git clone https://github.com/journey-ad/Moe-Counter.git
 $ cd Moe-Counter
+$ cp config.yml.example config.yml
 $ yarn install
 
 $ yarn start
@@ -70,6 +71,7 @@ DB_URL="mongodb+srv://account:passwd@***.***.***.mongodb.net/db_count"
 
 ## Credits
 
+*   [journey-ad](https://github.com/journey-ad/Moe-Counter)
 *   [replit](https://replit.com/)
 *   [A-SOUL_Official](https://space.bilibili.com/703007996)
 *   [moebooru](https://github.com/moebooru/moebooru)
