@@ -7,22 +7,6 @@ html
     link(rel='stylesheet', href='https://cdn.jsdelivr.net/npm/bamboo.css')
     link(rel='stylesheet/less', href=`${site}/style.less`)
     script(less, src='https://cdn.jsdelivr.net/npm/less')
-    if ga_id
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      script(async, src=`https://www.googletagmanager.com/gtag/js?id=${ga_id}`)
-    script.
-      window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
-      gtag('js', new Date());
-
-      gtag('config', '#{ga_id}');
-
-      function _evt_push(type, category, label) {
-        gtag('event', type, {
-          'event_category' : category,
-          'event_label' : label
-        });
-      }
 
     script.
       var __global_data = { site: "#{site}" };
@@ -49,7 +33,7 @@ html
       img(src=`${site}/@index` alt="Moe Counter!")
 
     details#themes
-      summary#more_theme(onclick='_evt_push("click", "normal", "more_theme")')
+      summary#more_theme()
         h3 More theme✨
       p Just use the query parameters <code>theme</code>, like this: <code>#{site}/@:name?theme=moebooru</code>
       each theme in Object.keys(themeList)
@@ -140,14 +124,14 @@ html
             td Set the prefix number, empty for disable
             td: input#prefix(type='number', value='', min='0', max='999999', step='1', oninput='this.value = this.value.replace(/[^0-9]/g, "")')
 
-      button#get(onclick='_evt_push("click", "normal", "get_counter")') Generate
+      button#get Generate
 
       div
         code#code
         img#result
 
     p.github
-      a(href='https://github.com/journey-ad/Moe-Counter', target='_blank', onclick='_evt_push("click", "normal", "go_github")') source code
+      a(href='https://github.com/es3n1n/Moe-Counter', target='_blank') source code
 
     div.back-to-top
 

@@ -1,0 +1,25 @@
+
+services:
+  moe-counter:
+    image: moe-counter:latest
+    container_name: moe-counter
+    build: .
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - DB_URL=mongodb://mongo:27017/
+    networks:
+      moe_net:
+  mongo:
+    image: mongo:latest
+    container_name: moe-counter-mongodb
+    restart: unless-stopped
+    volumes:
+      - .data:/data/db
+    networks:
+      moe_net:
+
+networks:
+  moe_net:
+    driver: bridge

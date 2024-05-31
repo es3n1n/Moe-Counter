@@ -24,3 +24,12 @@
 .env.production.local
 
 npm-debug.log*
+
+# jetbrains
+.idea/**
+
+# database
+.data/**
+
+# config
+config.yml
