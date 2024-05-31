@@ -8,7 +8,7 @@ services:
     ports:
       - "3000:3000"
     environment:
-      - DB_URL=mongodb://mongo:27017/
+      - DB_URL=mongodb://mongo:27017/moe_counter
     networks:
       moe_net:
   mongo:
