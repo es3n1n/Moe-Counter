@@ -1,0 +1,6 @@
+app:
+  site: https://moe-count.es3n1n.eu
+  port: 3000
+
+db:
+  type: mongodb

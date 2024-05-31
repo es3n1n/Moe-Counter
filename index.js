@@ -120,6 +120,5 @@ async function getCountByName(name) {
   } catch (error) {
     console.log("get count by name is error: ", error)
     return defaultCount
-
   }
 }
