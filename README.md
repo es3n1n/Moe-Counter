@@ -3,18 +3,8 @@
 多种风格可选的萌萌计数器
 
 <p align="center">
-  <a href="https://count.getloli.com" target="_blank">
-    <img alt="Moe Counter!" src="https://count.getloli.com/@Moe-counter.github?name=Moe-counter.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://hellogithub.com/repository/ed741b376efe46789ce9bb140ac19a52" target="_blank">
-   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=ed741b376efe46789ce9bb140ac19a52&claim_uid=NyJh2Vejq3984f5&theme=dark" />
-     <source media="(prefers-color-scheme: light)" srcset="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=ed741b376efe46789ce9bb140ac19a52&claim_uid=NyJh2Vejq3984f5&theme=neutral" />
-     <img src="https://api.hellogithub.com/v1/widgets/recommend.svg?rid=ed741b376efe46789ce9bb140ac19a52&claim_uid=NyJh2Vejq3984f5&theme=neutral" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" />
-   </picture>
+  <a href="https://moe-counter.es3n1n.eu" target="_blank">
+    <img alt="Moe Counter!" src="https://moe-counter.es3n1n.eu/@Moe-counter.github?name=Moe-counter.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
   </a>
 </p>
 
@@ -25,220 +15,220 @@
 
 ##### 3d-num
 
-![3d-num](https://count.getloli.com/@demo?theme=3d-num)
+![3d-num](https://moe-counter.es3n1n.eu/@demo?theme=3d-num)
 
 ##### ai-1
 
-![ai-1](https://count.getloli.com/@demo?theme=ai-1)
+![ai-1](https://moe-counter.es3n1n.eu/@demo?theme=ai-1)
 
 ##### asoul
 
-![asoul](https://count.getloli.com/@demo?theme=asoul)
+![asoul](https://moe-counter.es3n1n.eu/@demo?theme=asoul)
 
 ##### booru-ffsr
 
-![booru-ffsr](https://count.getloli.com/@demo?theme=booru-ffsr)
+![booru-ffsr](https://moe-counter.es3n1n.eu/@demo?theme=booru-ffsr)
 
 ##### booru-helltaker
 
-![booru-helltaker](https://count.getloli.com/@demo?theme=booru-helltaker)
+![booru-helltaker](https://moe-counter.es3n1n.eu/@demo?theme=booru-helltaker)
 
 ##### booru-huggboo
 
-![booru-huggboo](https://count.getloli.com/@demo?theme=booru-huggboo)
+![booru-huggboo](https://moe-counter.es3n1n.eu/@demo?theme=booru-huggboo)
 
 ##### booru-jaypee
 
-![booru-jaypee](https://count.getloli.com/@demo?theme=booru-jaypee)
+![booru-jaypee](https://moe-counter.es3n1n.eu/@demo?theme=booru-jaypee)
 
 ##### booru-koe
 
-![booru-koe](https://count.getloli.com/@demo?theme=booru-koe)
+![booru-koe](https://moe-counter.es3n1n.eu/@demo?theme=booru-koe)
 
 ##### booru-lewd
 
-![booru-lewd](https://count.getloli.com/@demo?theme=booru-lewd)
+![booru-lewd](https://moe-counter.es3n1n.eu/@demo?theme=booru-lewd)
 
 ##### booru-lisu
 
-![booru-lisu](https://count.getloli.com/@demo?theme=booru-lisu)
+![booru-lisu](https://moe-counter.es3n1n.eu/@demo?theme=booru-lisu)
 
 ##### booru-mjg
 
-![booru-mjg](https://count.getloli.com/@demo?theme=booru-mjg)
+![booru-mjg](https://moe-counter.es3n1n.eu/@demo?theme=booru-mjg)
 
 ##### booru-mof
 
-![booru-mof](https://count.getloli.com/@demo?theme=booru-mof)
+![booru-mof](https://moe-counter.es3n1n.eu/@demo?theme=booru-mof)
 
 ##### booru-nandroid
 
-![booru-nandroid](https://count.getloli.com/@demo?theme=booru-nandroid)
+![booru-nandroid](https://moe-counter.es3n1n.eu/@demo?theme=booru-nandroid)
 
 ##### booru-qualityhentais
 
-![booru-qualityhentais](https://count.getloli.com/@demo?theme=booru-qualityhentais)
+![booru-qualityhentais](https://moe-counter.es3n1n.eu/@demo?theme=booru-qualityhentais)
 
 ##### booru-r6gdrawfriends
 
-![booru-r6gdrawfriends](https://count.getloli.com/@demo?theme=booru-r6gdrawfriends)
+![booru-r6gdrawfriends](https://moe-counter.es3n1n.eu/@demo?theme=booru-r6gdrawfriends)
 
 ##### booru-rfck
 
-![booru-rfck](https://count.getloli.com/@demo?theme=booru-rfck)
+![booru-rfck](https://moe-counter.es3n1n.eu/@demo?theme=booru-rfck)
 
 ##### booru-smtg
 
-![booru-smtg](https://count.getloli.com/@demo?theme=booru-smtg)
+![booru-smtg](https://moe-counter.es3n1n.eu/@demo?theme=booru-smtg)
 
 ##### booru-snyde
 
-![booru-snyde](https://count.getloli.com/@demo?theme=booru-snyde)
+![booru-snyde](https://moe-counter.es3n1n.eu/@demo?theme=booru-snyde)
 
 ##### booru-the-collection
 
-![booru-the-collection](https://count.getloli.com/@demo?theme=booru-the-collection)
+![booru-the-collection](https://moe-counter.es3n1n.eu/@demo?theme=booru-the-collection)
 
 ##### booru-touhoulat
 
-![booru-touhoulat](https://count.getloli.com/@demo?theme=booru-touhoulat)
+![booru-touhoulat](https://moe-counter.es3n1n.eu/@demo?theme=booru-touhoulat)
 
 ##### booru-townofgravityfalls
 
-![booru-townofgravityfalls](https://count.getloli.com/@demo?theme=booru-townofgravityfalls)
+![booru-townofgravityfalls](https://moe-counter.es3n1n.eu/@demo?theme=booru-townofgravityfalls)
 
 ##### booru-twifanartsfw
 
-![booru-twifanartsfw](https://count.getloli.com/@demo?theme=booru-twifanartsfw)
+![booru-twifanartsfw](https://moe-counter.es3n1n.eu/@demo?theme=booru-twifanartsfw)
 
 ##### booru-ve
 
-![booru-ve](https://count.getloli.com/@demo?theme=booru-ve)
+![booru-ve](https://moe-counter.es3n1n.eu/@demo?theme=booru-ve)
 
 ##### booru-vivi
 
-![booru-vivi](https://count.getloli.com/@demo?theme=booru-vivi)
+![booru-vivi](https://moe-counter.es3n1n.eu/@demo?theme=booru-vivi)
 
 ##### booru-vp
 
-![booru-vp](https://count.getloli.com/@demo?theme=booru-vp)
+![booru-vp](https://moe-counter.es3n1n.eu/@demo?theme=booru-vp)
 
 ##### booru-yuyuyui
 
-![booru-yuyuyui](https://count.getloli.com/@demo?theme=booru-yuyuyui)
+![booru-yuyuyui](https://moe-counter.es3n1n.eu/@demo?theme=booru-yuyuyui)
 
 ##### capoo-1
 
-![capoo-1](https://count.getloli.com/@demo?theme=capoo-1)
+![capoo-1](https://moe-counter.es3n1n.eu/@demo?theme=capoo-1)
 
 ##### capoo-2
 
-![capoo-2](https://count.getloli.com/@demo?theme=capoo-2)
+![capoo-2](https://moe-counter.es3n1n.eu/@demo?theme=capoo-2)
 
 ##### e621
 
-![e621](https://count.getloli.com/@demo?theme=e621)
+![e621](https://moe-counter.es3n1n.eu/@demo?theme=e621)
 
 ##### food
 
-![food](https://count.getloli.com/@demo?theme=food)
+![food](https://moe-counter.es3n1n.eu/@demo?theme=food)
 
 ##### gelbooru
 
-![gelbooru](https://count.getloli.com/@demo?theme=gelbooru)
+![gelbooru](https://moe-counter.es3n1n.eu/@demo?theme=gelbooru)
 
 ##### green
 
-![green](https://count.getloli.com/@demo?theme=green)
+![green](https://moe-counter.es3n1n.eu/@demo?theme=green)
 
 ##### kasuterura-1
 
-![kasuterura-1](https://count.getloli.com/@demo?theme=kasuterura-1)
+![kasuterura-1](https://moe-counter.es3n1n.eu/@demo?theme=kasuterura-1)
 
 ##### kasuterura-2
 
-![kasuterura-2](https://count.getloli.com/@demo?theme=kasuterura-2)
+![kasuterura-2](https://moe-counter.es3n1n.eu/@demo?theme=kasuterura-2)
 
 ##### kasuterura-3
 
-![kasuterura-3](https://count.getloli.com/@demo?theme=kasuterura-3)
+![kasuterura-3](https://moe-counter.es3n1n.eu/@demo?theme=kasuterura-3)
 
 ##### kasuterura-4
 
-![kasuterura-4](https://count.getloli.com/@demo?theme=kasuterura-4)
+![kasuterura-4](https://moe-counter.es3n1n.eu/@demo?theme=kasuterura-4)
 
 ##### kyun
 
-![kyun](https://count.getloli.com/@demo?theme=kyun)
+![kyun](https://moe-counter.es3n1n.eu/@demo?theme=kyun)
 
 ##### love-and-deepspace
 
-![love-and-deepspace](https://count.getloli.com/@demo?theme=love-and-deepspace)
+![love-and-deepspace](https://moe-counter.es3n1n.eu/@demo?theme=love-and-deepspace)
 
 ##### miku
 
-![miku](https://count.getloli.com/@demo?theme=miku)
+![miku](https://moe-counter.es3n1n.eu/@demo?theme=miku)
 
 ##### minecraft
 
-![minecraft](https://count.getloli.com/@demo?theme=minecraft)
+![minecraft](https://moe-counter.es3n1n.eu/@demo?theme=minecraft)
 
 ##### moebooru
 
-![moebooru](https://count.getloli.com/@demo?theme=moebooru)
+![moebooru](https://moe-counter.es3n1n.eu/@demo?theme=moebooru)
 
 ##### morden-num
 
-![morden-num](https://count.getloli.com/@demo?theme=morden-num)
+![morden-num](https://moe-counter.es3n1n.eu/@demo?theme=morden-num)
 
 ##### nixietube-1
 
-![nixietube-1](https://count.getloli.com/@demo?theme=nixietube-1)
+![nixietube-1](https://moe-counter.es3n1n.eu/@demo?theme=nixietube-1)
 
 ##### nixietube-2
 
-![nixietube-2](https://count.getloli.com/@demo?theme=nixietube-2)
+![nixietube-2](https://moe-counter.es3n1n.eu/@demo?theme=nixietube-2)
 
 ##### normal-1
 
-![normal-1](https://count.getloli.com/@demo?theme=normal-1)
+![normal-1](https://moe-counter.es3n1n.eu/@demo?theme=normal-1)
 
 ##### normal-2
 
-![normal-2](https://count.getloli.com/@demo?theme=normal-2)
+![normal-2](https://moe-counter.es3n1n.eu/@demo?theme=normal-2)
 
 ##### original-new
 
-![original-new](https://count.getloli.com/@demo?theme=original-new)
+![original-new](https://moe-counter.es3n1n.eu/@demo?theme=original-new)
 
 ##### original-old
 
-![original-old](https://count.getloli.com/@demo?theme=original-old)
+![original-old](https://moe-counter.es3n1n.eu/@demo?theme=original-old)
 
 ##### rule34
 
-![rule34](https://count.getloli.com/@demo?theme=rule34)
+![rule34](https://moe-counter.es3n1n.eu/@demo?theme=rule34)
 
 ##### shimmie2
 
-![shimmie2](https://count.getloli.com/@demo?theme=shimmie2)
+![shimmie2](https://moe-counter.es3n1n.eu/@demo?theme=shimmie2)
 
 ##### sketch-1
 
-![sketch-1](https://count.getloli.com/@demo?theme=sketch-1)
+![sketch-1](https://moe-counter.es3n1n.eu/@demo?theme=sketch-1)
 
 ##### sketch-2
 
-![sketch-2](https://count.getloli.com/@demo?theme=sketch-2)
+![sketch-2](https://moe-counter.es3n1n.eu/@demo?theme=sketch-2)
 
 ##### yousa-ling
 
-![yousa-ling](https://count.getloli.com/@demo?theme=yousa-ling)
+![yousa-ling](https://moe-counter.es3n1n.eu/@demo?theme=yousa-ling)
 
 </details>
 
 ## Demo
-[https://count.getloli.com](https://count.getloli.com)
+[https://moe-counter.es3n1n.eu](https://moe-counter.es3n1n.eu)
 
 ## Sponsor / 赞助
 
@@ -260,7 +250,7 @@ This service handles over **10 million** requests every month. If *Moe Counter!*
 
 ## How to use
 
-For information on counter usage and configuration, refer to the [demo website](https://count.getloli.com).
+For information on counter usage and configuration, refer to the [demo website](https://moe-counter.es3n1n.eu).
 
 ## Usage
 
@@ -301,7 +291,7 @@ services:
 ### Deploying from Source
 
 ```shell
-$ git clone https://github.com/journey-ad/Moe-Counter.git
+$ git clone https://github.com/es3n1n/Moe-Counter.git
 $ cd Moe-Counter
 $ pnpm install
 
@@ -314,7 +304,7 @@ Set `.env` file to specify the environment variables. *[.env.example](./.env.exa
 
 ```dosini
 # Specify your website URL
-# APP_SITE=https://count.getloli.com
+# APP_SITE=https://moe-counter.es3n1n.eu
 
 # Application port
 APP_PORT=3000
@@ -346,13 +336,3 @@ LOG_LEVEL=debug
 ## License
 
 [MIT License](./LICENSE), excluding all themes
-
----
-
-<a href="https://star-history.com/?repos=journey-ad/Moe-Counter&type=Date#journey-ad/Moe-Counter&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=journey-ad/Moe-Counter&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=journey-ad/Moe-Counter&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=journey-ad/Moe-Counter&type=Date" />
- </picture>
-</a>
