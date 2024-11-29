@@ -8,6 +8,8 @@ services:
     ports:
       - "3000:3000"
     environment:
+      - LOG_LEVEL=info
+      - DB_INTERVAL=60
       - DB_TYPE=mongodb
       - DB_URL=mongodb://mongo:27017/moe_counter
     networks:
