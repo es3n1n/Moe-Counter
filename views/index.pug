@@ -34,7 +34,7 @@ html
 
     details#themes
       summary#more_theme()
-        h3 More theme✨
+        h3 More themes✨
       p Just use the query parameters <code>theme</code>, like this: <code>#{site}/@:name?theme=moebooru</code>
       each theme in Object.keys(themeList)
         div.item(data-theme=theme)
@@ -49,7 +49,7 @@ html
         a(href='javascript:alert("!!! NSFW LINK !!!\\nPlease enter the url manually")') gelbooru.com
         |  NSFW
       li: a(href='https://icons8.com/icon/80355/star', target='_blank', rel='nofollow') Icons8
-      span: i And all booru site...
+      span: i And all the other booru sites...
 
     h3 Tool
     .tool
